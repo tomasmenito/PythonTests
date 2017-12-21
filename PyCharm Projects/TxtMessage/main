@@ -1,0 +1,7 @@
+from twilio.rest import TwilioRestClient
+accountSID = 'PN2581de8a6a9dec3c79284d714353f0df'
+authToken = ''
+twilioCli = TwilioRestClient(accountSID,authToken)
+myTwilioNumber = '+556231421793'
+myCellPhone = '+5516992221131'
+message = twilioCli.messages.create(body='Hello world',from_=myTwilioNumber,to=myCellPhone)

@@ -1,0 +1,3 @@
+texts = {"pt": "Texto em portugues","en": "Text in english","es": "Lo texto en español"}
+    for key,value in texts.items():
+        print(key,value)

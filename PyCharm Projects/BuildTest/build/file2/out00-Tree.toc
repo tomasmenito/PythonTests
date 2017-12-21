@@ -1,0 +1,6 @@
+('c:\\users\\acer01\\appdata\\local\\programs\\python\\python35-32\\lib\\site-packages\\openpyxl-2.3.1-py3.5.egg',
+ None,
+ {'*.pyc', '*.pyo', '*.py', '*.pyd', 'EGG-INFO', '*.so'},
+ [('openpyxl\\.constants.json',
+   'c:\\users\\acer01\\appdata\\local\\programs\\python\\python35-32\\lib\\site-packages\\openpyxl-2.3.1-py3.5.egg\\openpyxl\\.constants.json',
+   'DATA')])
